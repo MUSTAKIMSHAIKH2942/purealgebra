@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+setup.py
+purealgebra/__init__.py
+purealgebra/basic.py
+purealgebra/linear_algebra.py
+purealgebra/polynomial.py
+purealgebra/solver.py
+purealgebra.egg-info/PKG-INFO
+purealgebra.egg-info/SOURCES.txt
+purealgebra.egg-info/dependency_links.txt
+purealgebra.egg-info/top_level.txt
+tests/test_basic.py
+tests/test_linear_algebra.py
+tests/test_polynomial.py
+tests/test_solver.py
