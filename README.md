@@ -1,7 +1,7 @@
 
 # purealgebra
 
-[![CI](https://github.com/yourusername/purealgebra/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/purealgebra/actions/workflows/ci.yml)
+[![CI](https://github.com/MUSTAKIMSHAIKH2942/purealgebra/actions/workflows/ci.yml/badge.svg)](https://github.com/MUSTAKIMSHAIKH2942/purealgebra/actions/workflows/ci.yml)
 [![PyPI version](https://badge.fury.io/py/purealgebra.svg)](https://badge.fury.io/py/purealgebra)
 
 A minimal pure Python algebra library (no dependencies).
@@ -15,7 +15,7 @@ pip install purealgebra
 ## Development install
 
 ```bash
-git clone https://github.com/yourusername/purealgebra.git
+git clone https://github.com/MUSTAKIMSHAIKH2942/purealgebra.git
 cd purealgebra
 pip install .
 ```
